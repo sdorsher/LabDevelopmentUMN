@@ -1,0 +1,93 @@
+\documentclass[article]
+
+\begin{document}
+
+\title{Lab 1: Average speed and error bars}
+
+When you're driving along the highway, your car's spedometer tells you
+the speed at a given time. There are reasons you might want to know
+this. Are you going unreasonably fast? Are you past the maximum speed
+allowed? Other times, you might care more about how long it takes you
+to make the whole trip. Often people talk about distances in
+times. ``It takes 8 minutes to walk between Coffman Union and Tate
+Lab'' or ``I live 20 minutes away from campus''. If you wanted to know
+the actual distance instead, and had a pretty good notion of how fast
+you'd been going the whole time, how would you calculate it? If you
+don't have a spedometer, how can you figure out how fast you are
+going?
+
+\section{Equipment}
+\begin{itemize}
+\item Motorized toy car
+\item Meter stick
+\item Stopwatch
+\end{itemize}
+
+\section{Prediction}
+
+If you measure a cart to have a certain average speed, how long do you
+expect it to take it to travel a different distance? How can you test
+whether or not the average velocity is the same for each trial?
+
+\section{Warm up questions}
+\begin{itemize}
+
+\item If a toy car covers a distance $D_{calibration}$ in a time
+  $t_{calibration}$, what is its average speed? Performing a
+  calibration means using one measurement to set the scale for
+  others. This calibration is a little different from ones used in
+  later labs because it uses a speed instead of a distance.
+
+\item How long would you expect the same toy car to travel a different
+  distance $D_1$? Make a table of predicted travel times for a few
+  different distances. If you plot the predicted times versus the
+  distance covered, what do you expect it to look like for a cart with
+  a constant average speed? What if you plotted the predicted time
+  versus the actual time instead?
+
+\end{itemize}
+
+
+\section{Exploration}
+
+Read Appendix C.
+
+How well does the cart travel across the floor? Do you notice any
+apparent changes in velocity? 
+
+How quickly can you start and stop the stopwatch? When the cart
+crosses a finish line, how hard is it to tell when it has crossed?
+Decide on a way to estimate the size of the error bars on your
+measurements.
+
+\section{Procedure}
+
+Mark a distance on the floor and time the cart travelling from start
+to finish. Record this information in your lab notebook. What was the
+velocity? This will be used for your calibration.
+
+Mark off a different distance, and predict how long it will take the
+cart to travel this distance. Record your prediction in your lab
+notebook, along with any measurements you made. Measure the time it
+takes the cart to travel this distance, and add that to your record.
+
+Make a table of several different distances and times (remember to
+make a prediction!). 
+
+
+\section{Analysis}
+
+Plot the predicted times versus the measured times the cart took,
+using error bars. Draw a line on the graph to represents the
+hypothesis that the car's average speed didn't change with the
+distance. 
+
+\section{Conclusion}
+
+How can you tell whether or not your data agreed with this
+hypothesis? Did the cart have a roughly constant speed in your
+experiment?
+
+
+
+

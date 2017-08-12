@@ -1,0 +1,75 @@
+\documentclass[article]
+
+\begin{document}
+
+\title{Lab 0: Average speed, uncertainty, and error bars}
+
+When you're driving along the highway, your car's spedometer tells you
+the speed at a given time. Other times, you might care more about how
+long it takes you to make the whole trip, with statements like ``I
+live 10 minutes away from the University.'' Suppose you were on a
+bicycle and wanted to know how much longer it would take you to get
+somewhere based on how fast you were currently going. How could you
+estimate that? Does it depend on whether or not your speed stays
+constant the whole time?
+
+\section{Equipment}
+\begin{itemize}
+\item Motorized toy car
+\item Meter stick
+\item Stopwatch
+\end{itemize}
+
+\section{Prediction}
+
+How can you determine whether or not a toy car moves with a constant
+velocity? How can you use one timing measurement to predict how long
+it will take the toy car to drive a different distance?
+
+\section{Warm up questions}
+\begin{itemize}
+
+\item If a toy car covers a distance $D_{calibration}$ in a time
+  $t_{calibration}$, what is its average speed? 
+
+\item How long would you expect the same toy car to travel a different
+  distance? If the car travels with a constant velocity, how should a
+  plot of times versus distances look? How do you expect this to be
+  different for a car with small variations in its speed?
+
+\end{itemize}
+
+
+\section{Exploration}
+
+How well does the cart travel across the floor? Do you notice any
+apparent changes in velocity? 
+
+How quickly can you start and stop the stopwatch? When the cart
+crosses a finish line, how hard is it to tell when it has crossed?
+Decide on a way to estimate the uncertainty of your measurements.
+
+\section{Procedure}
+
+Mark a distance on the floor and time the cart travelling from start
+to finish. What was the velocity? 
+
+How far does the cart have to travel before you can reliably measure
+the time it takes? Decide on several distances at which you plan to
+make a measurement, and measure the time it takes the toy car to
+travel them. What are the uncertainties (appendix B)?
+
+\section{Analysis}
+
+Plot the times and distances for each of the trials using error bars
+(appendix C). 
+
+\section{Conclusion}
+
+How do you interpret the plot you just made? How can you tell whether
+or not the car travelled at a roughly constant velocity during this
+experiment?
+
+
+
+

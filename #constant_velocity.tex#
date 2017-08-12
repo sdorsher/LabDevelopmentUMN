@@ -1,0 +1,17 @@
+\documentclass{article}
+
+\begin{document}
+
+\title{Problem #2
+\maketitle
+
+You and a couple of friends have decided to meet after a class. One of
+you keeps suggesting another route that he thinks would be faster, but
+most of you don't care. After he brings this up for the third time,
+one of you suggests that you each take a different route and see who
+gets there first. It turns out that you all get there within a couple
+minutes of each other. You conclude that in this case, the total time
+taken doesn't really depend on the route you took very much. But it
+makes you wonder, how does travel time depend on the path taken, more
+generally?
+

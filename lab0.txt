@@ -1,0 +1,86 @@
+Lab 0:
+
+Common lab procedures
+
+Exercise 1:
+
+Average deviation and Error bars
+
+Scenario
+
+
+
+Equipment:
+meter stick
+ruler
+toy car
+
+
+
+Prediction:
+
+WUQ
+
+Exploration
+
+Procedure
+
+
+
+Read appendix B.
+
+Measure the length of a block along each of the four long
+sides. Based on the mean length measurement, determine the length of
+the block. Calculate the average deviation of these measurements to
+determine the uncertainty of the length of the block. 
+
+Repeat this measurement, but vary the procedure. Use a different ruler, or a variety of different rulers, or have different people make the measurements, or do something else. Record your procedure in your lab notebook. What are the new best estimates you obtain for the length of the block and its uncertainty, making use of all of your data?
+
+Read appendix C.
+
+In repeated trials, time a toy car's motion over increasing distances
+ and record these times and distances in a table, including uncertainties. You may have to mark off distances on the floor using masking tape with a meter stick. How will you determine the error associated with each distance measurement?
+
+Plot the table of times versus distances using error bars. Draw a line through them that seems to be the best fit. Find its slope to obtain the average speed of the car during these several trials. Based on how well the  best fit line fits your data points given your error bars, did the toy car move at roughly a constant speed during these trials?
+
+
+
+------------
+
+Exercise 2:
+
+Minimizing perspective-induced distortion and Calibration
+
+
+Open the VideoRECORDER tool. Orient the meter stick in the camera's field of view as if you were trying to use it to measure something on the monitor (so that it appears flat in the image). This should happen when it is perpendicular to the camera's line of sight. Do the meter stick's markings appear evenly spaced on the image on the monitor in this position? How does the meter stick's appearance change if you shift it side to side in any direction? Toward or away from the camera? If you rotate it so that one end is closer to the camera than the other?
+
+Place a cart on a track on the table, and the meter stick along it. Set the camera up so that the meter stick's markings appear similarly spaced along the whole length, to the extent possible. Remove the meter stick, and keep the camera and track in place.
+
+Measure the length of a block and place it on the track. Place a few other objects beside it. During later labs, sometimes you will want to know distances as a function of time but will be unable to directly measure them because objects will be moving too quickly. Instead, you will "teach" the video analysis software how long an object is and it will be able to measure lengths on the screen in a procedure known as calibration. Pretend for a minute that you are unable to directly measure the lengths of the objects you have just placed on the track. Measure the length of the block on the screen (using a ruler), and measure the length of these objects on the monitor as well. How can you calculate the actual lengths of these objects using the known length of the block?
+
+What happens if instead of placing the block beside the objects, you place it in front of them or behind them? Try a variety of distances and see how much it effects the calibration of your measurements.
+
+
+--------------
+
+Exercise 3 (the existing lab 0):
+
+Determining an Equation from a Graph
+
+
+Open PracticeFit. 
+
+Select "Mystery Functions" from the number menu. These are several functions that commonly appear in physics problems which have randomly chosen parameters for you to figure out by fitting functions to them.
+
+Select the appropriate "Fit Function" which appears to describe the Mystery Function curve from the menu on the screen. This is similar to the procedure used for fitting data in later labs. You can change the range by typing in new maximum or minimum values at the outside edges of the axes. 
+
+Is it faster to change the slope or intercept first?
+
+Does the fit make sense? Calculate the slope by hand to make sure.
+
+Look for a way to fit a parabola quickly by exploring different values of the A, B, and C parameters. What do these parameters do?
+
+Does the parabolic fit make sense? Does the parabola open in the correct direction?
+
+
+

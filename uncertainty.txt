@@ -1,0 +1,79 @@
+When you record data from an experiment, often you will need to be
+able to interpret your results later. Part of the key to this is good
+lab notebook keeping technique, in terms of recording all the
+information you are likely to need. Another important component is
+significantly understanding your prediction before you begin making
+measurements, so you don't waste too much time making irrelevant
+measurements or producing data which doesn't test the idea you were
+trying to test. Exploring variations on the suggested procedure will
+help you refine your prediction, develop a procedure to test it, and
+figure out which information is essential to record so that you can
+make sense of your measurement records later. Spending a small amount
+of time analyzing the data after you leave lab, regardless of whether
+or not you do a lab report, would be helpful in understanding the
+material in greater depth. One important component of understanding
+how to interpret your data is understanding how the measurements you
+make relate to the concept you are trying to measure. Another
+important piece of this issue is finding a way to handle variations in
+measurements which are fundamentally random, may as well be random
+because we lack sufficient information, or random due to the way the
+measurement was made. Understanding uncertainty, or error, in
+measurements will help you understand these issues and help you test
+your hypotheses in future labs.
+
+Equipment:
+two wood blocks
+ruler
+
+Procedure:
+
+One of the difficulties in physics is establishing what is being
+measured. Measure the length of a block, but vary the procedure in
+several different ways. Make at least 15 measurements. Record your
+procedure and associated measurements in your lab notebook. Does it
+matter if you use different sides? How about exchanging rulers with
+someone else in the lab? What else effects it?
+
+How precisely did you record your measurements? Did you see any
+variations in the results to that precision? 
+
+Use your data to obtain the length of the block by taking the mean of
+your measurements. Rejecting data points is a subtle issue, though
+there are a number of different reasons this is sometimes done. One
+commonly used case includes measurements where you remember something
+interfering with the purpose of the measurement, such as a cart which
+veers too far off course for a finish line to be established in a
+measurement of timing a cart. Other cases include things like actual
+mistakes you remember making in the intended proceedure of the
+experiment that you don't think you can correct for later or data
+which is too fundamentally different from the rest to be interpretable
+based on something about how it was measured. Other reasons exist as
+well. Do you have any that you want to discard? Use the average
+deviation method in Appendix B to find the uncertainty or error of
+your measurement. This is one way to quantify how well known the
+measurement is.
+
+What is the maximum value you measured? What is the minimum value you
+measured? Divide this range into a small number of evenly spaced
+intervals and create a table listing them. In the second column,
+talley the number of measurements you made which had values within
+each interval. Make a histogram of your data in your lab notebook by
+plotting length values (maximum and minimums of each bin) along the
+x-axis and the number of data points in each bin along the y-axis. In
+a histogram, you can draw boxes to illustrate where bins (intervals)
+start and stop and to represent how much data was present within
+them. How does the distribution of your data look? Which bin had the
+most data in it?  Earlier you found a best value for the length of the
+block by taking the mean of your measurements. Where does this appear
+on the histogram? Were more measurements longer or shorter than the
+mean?  Draw a line to either side of the mean to represent the error
+on the measurement that you found using the average deviation. Roughly
+speaking, do most of your measurements fall within it?
+
+Quickly measure the length of a second block. Make a guess at the
+error based on your previous experience and how well you measured
+it. Record your procedure, your measurement, your uncertainty, and how
+you estimated it in your lab notebook. Read the section on comparing
+two values in Appendix B. Do you find the lengths of the two blocks to
+be the same, or different, or are you unable to determine the answer
+to your satisfaction? Why?
